@@ -1,0 +1,92 @@
+.element1 {
+    background: url(../images/bg1.svg) no-repeat;
+    height: 442px;
+    width: 500px;
+    display: flex;
+    padding-right: 50px;
+}
+
+.element2 {
+    background: url(../images/bg2.svg) no-repeat;
+    height: 442px;
+    width: 550px;
+    display: flex;
+}
+
+.element3 {
+    background: url(../images/bg3.svg) no-repeat;
+    height: 442px;
+    width: 550px;
+    display: flex;
+    padding-right: 50px;
+}
+
+.element4 {
+    background: url(../images/bg4.svg) no-repeat;
+    height: 442px;
+    width: 550px;
+    display: flex;
+}
+
+.third_container{
+    display: flex;
+}
+
+
+
+.block1__text {
+    flex-direction: column;
+    justify-content: center;
+    width: 220px;
+    display: flex;
+    padding-left: 270px;
+    padding-top: 50px;
+}
+
+.block__title {
+    font-family: 'Helvetica';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+    display: flex;
+    align-items: center;
+    color: #212353;
+    padding-right: 00px;
+}
+
+.block__paragraph {
+    padding-top: 20px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4B5D68;
+}
+
+.learn-more {
+    padding-top: 20px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 160%;
+    /* identical to box height, or 26px */
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.005em;
+    
+    /* 2 */
+    
+    color: #212353;
+    
+}
+
+.first-row{
+    display: flex;
+    max-width: 1000;
+    padding-bottom: 50px;
+}
+.second-row {
+    display:flex;
+}

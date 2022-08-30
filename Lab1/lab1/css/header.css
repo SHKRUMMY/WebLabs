@@ -1,0 +1,94 @@
+.header {
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+}
+
+.header___nav {
+    margin-left: 120px;
+    margin-right: 420px;
+}
+
+.header___nav ul {
+    display: flex;
+
+}
+
+.header___nav-item {
+
+    color: #4B5D68;
+    margin-left: 45px;
+    font-family: 'Avenir';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+
+}
+
+.header___nav-item1 {
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+
+
+#header___request-demo {
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+
+    /* display: flex; */
+    align-items: center;
+    letter-spacing: 0.005em;
+    border: 0;
+    /* 2 */
+    width: 210px;
+    height: 60px;
+    color: #212353;
+    /* padding-left: 420px; */
+}
+
+.hero__button-text {
+    font-family: 'Avenir';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 160%;
+
+    display: center;
+
+    color: #FFFFFF;
+}
+
+
+.rectangle32 {
+    margin-top: 12px;
+    width: 20px;
+    height: 20px;
+
+
+    background: #9C69E2;
+    border-radius: 20px;
+
+}
+
+.rectangle33 {
+
+    width: 20px;
+    height: 35px;
+    margin-left: 9px;
+
+    background: #F063B8;
+    border-radius: 20px;
+}
+
+#header__request-demo{
+    padding-left: 20px;
+}

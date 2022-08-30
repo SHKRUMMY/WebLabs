@@ -1,0 +1,28 @@
+.features__title {
+    font-family: 'Helvetica';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    width: 100%;
+
+    align-items: center;
+    text-align: center;
+    padding-top: 150px;
+    color: #212353;
+}
+
+.features__paragraph {
+    font-family: 'Avenir';
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    max-width: 584px;
+    color: #4B5D68;
+    padding-top: 50px;
+    display: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+

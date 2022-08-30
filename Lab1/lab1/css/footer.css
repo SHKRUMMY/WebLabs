@@ -1,0 +1,108 @@
+.footer {
+    padding-top: 100px;
+    display: flex;
+}
+
+
+.footer_title {
+    padding-top: 100px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 130%;
+    /* identical to box height, or 52px */
+
+    display: flex;
+    align-items: center;
+
+    color: #212353;
+}
+
+.footer_paragraph {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    padding-top: 20px;
+    /* identical to box height, or 29px */
+
+
+    /* 1 */
+
+    color: #4B5D68;
+}
+
+.footer_last {
+    padding-top: 75px;
+    width: 360px;
+    font-family: 'Avenir';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 180%;
+    /* or 22px */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.01em;
+
+    /* 2 */
+
+    color: #212353;
+}
+
+
+#footer___request-demo {
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+    border-radius: 50px;
+    font-family: 'Avenir';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+
+    /* display: flex; */
+    align-items: center;
+    letter-spacing: 0.005em;
+    border: 0;
+    /* 2 */
+    width: 210px;
+    height: 60px;
+    color: #212353;
+    /* padding-left: 420px; */
+    /* padding-left: 30px; */
+}
+
+#footer__learn-more{
+    width: 170px;
+height: 60px;
+border: 0;
+/* 4 */
+
+background: #F063B8;
+border-radius: 50px;
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 160%;
+/* identical to box height, or 29px */
+
+/* display: flex; */
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.footer_buttons{
+    padding-top: 120px;
+    padding-left: 300px;
+    
+}
+
+#footer-arrow{
+    padding-left: 20px;
+}
+.chat{
+    background-image: url(../lab1/images/chat.svg);
+}
